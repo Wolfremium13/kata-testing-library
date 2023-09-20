@@ -1,6 +1,7 @@
 # 🧪 Kata testing library
 
-A Kata to rain how the testing library works in a low level.
+The main objective of this repository is to serve as a playground for the development of a testing library.
+In this case, we will use the [Mojo](https://docs.modular.com/mojo/manual/basics/) library.
 
 ## 📝 Kata instructions
 
