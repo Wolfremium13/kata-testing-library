@@ -1,0 +1,16 @@
+{
+    "name": "🔥 Mojo env",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash"
+            },
+            "extensions": ["modular-mojotools.vscode-mojo"]
+
+        }
+    }
+}
